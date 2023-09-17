@@ -1,0 +1,5 @@
+push code from vscode django to github repo
+git add .                   
+git commit -m 'changes'
+git remote add origin https://github.com/cheesenaan/audio-dubber.git
+git push -u origin main
